@@ -4,14 +4,16 @@ The idea behind this analysis is to show who is the better driver in a given car
 
 Removed Haas from both qualifying and race results as I don't consider Mazepin as a challenger for Schumacher, Schumacher does exceptionally well for Haas so no disrespect.
 
-f1_2021_qualifying_results.py parses qualifying results from motorsport website.
-f1_2021_race_results.py parses race results from motorsport website.
+## About Code
 
-f1_2021_qualifying_winners.py finds winner of each race by comparing qualifying time among teammates.
-f1_2021_race_winners.py finds winner of each race by comparing race time among teammates.
+`f1_2021_qualifying_results.py` parses qualifying results from motorsport website.  
+`f1_2021_race_results.py` parses race results from motorsport website.
 
-f1_2021_qualifying_winner.py finds how many races a respective driver outperformed teammate in qualifying and thus stood first.
-f1_2021_race_winner.py finds how many races a respective driver outperformed teammate in race and thus stood first.
+`f1_2021_qualifying_winners.py` finds winner of each race by comparing qualifying time among teammates.  
+`f1_2021_race_winners.py` finds winner of each race by comparing race time among teammates.
+
+`f1_2021_qualifying_winner.py` finds how many races a respective driver outperformed teammate in qualifying and thus stood first.  
+`f1_2021_race_winner.py` finds how many races a respective driver outperformed teammate in race and thus stood first.
 
 ## Criteria for Qualifying Winner:
 
