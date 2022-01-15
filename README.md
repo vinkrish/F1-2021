@@ -6,18 +6,20 @@ Removed Haas from both qualifying and race results as I don't consider Mazepin a
 
 ## About Code
 
-`f1_2021_qualifying_results.py` parses qualifying results from motorsport website.  
-`f1_2021_race_results.py` parses race results from motorsport website.
+`f1_2021_qualifying_results.py` parses all qualifying results from motorsport website.  
+`f1_2021_race_results.py` parses all race results from motorsport website.
 
-`f1_2021_qualifying_winners.py` finds winner of each race by comparing qualifying time among teammates.  
-`f1_2021_race_winners.py` finds winner of each race by comparing race time among teammates.
+`f1_2021_qualifying_winners.py` finds qualifying winner by comparing qualifying time among teammates and having largest gap.  
+`f1_2021_race_winners.py` finds race winner by comparing race time among teammates and having largest gap.
 
-`f1_2021_qualifying_winner.py` finds how many races a respective driver outperformed teammate in qualifying and thus stood first.  
-`f1_2021_race_winner.py` finds how many races a respective driver outperformed teammate in race and thus stood first.
+`f1_2021_qualifying_winner.py` finds how many qualifying a respective driver outperformed teammate and stood first by having largest gap among all drivers.
+`f1_2021_race_winner.py` finds how many races a respective driver outperformed teammate and stood first by having largest gap among all drivers.
 
 ## Criteria for Qualifying Winner:
 
-Only considering qualifying time less than 1000 ms or 1 sec, if not the driver is not competitive enough for being in same car.
+Only considering qualifying time gap less than 1000 ms or 1 sec, if not the driver is not competitive enough for being in same car.
+
+> eg: First race, Charles Leclerc won qualifying coz his gap of 537 ms compared to Carlos Sainz is the largest among drivers of same car. Even though Lance Stroll has a gap of 1.8 sec gap to Sebastian Vettel we are not considering this coz any large gap of this magnitude gives false result as we all know it's not a realistic gap.
 
 ### Qualifying Winner
 
@@ -35,8 +37,9 @@ Max Verstappen is the winner with 7 wins, followed by Lando Norris with 5 wins.
 
 ## Criteria for Race Winner:
 
-Only considering race time less than 60000 ms or 60 sec (no logic here just random number assumed), if not the driver is not competitive enough for being in same car.
+Only considering race time gap less than 60000 ms or 60 sec (no logic here just random number assumed), if not the driver is not competitive enough for being in same car.
 
+> eg: First race, Max Verstappen won race coz his gap of 51302 ms compared to Sergio Perez is the largest among drivers of same car. Even though Hamilton won the actual race his gap to Bottas was 37383 ms, we are not considering large gap of more than 60000 ms or 1 min as it gives false result involving bad drivers in the circuit.
 ### Race Winner
 
 Max Verstappen is the winner with 8 wins, followed by Lewis Hamilton with 3 wins.
