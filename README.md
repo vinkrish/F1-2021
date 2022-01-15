@@ -12,7 +12,7 @@ Removed Haas from both qualifying and race results as I don't consider Mazepin a
 `f1_2021_qualifying_winners.py` finds qualifying winner by comparing qualifying time among teammates and having largest gap.  
 `f1_2021_race_winners.py` finds race winner by comparing race time among teammates and having largest gap.
 
-`f1_2021_qualifying_winner.py` finds how many qualifying a respective driver outperformed teammate and stood first by having largest gap among all drivers.
+`f1_2021_qualifying_winner.py` finds how many qualifying a respective driver outperformed teammate and stood first by having largest gap among all drivers.  
 `f1_2021_race_winner.py` finds how many races a respective driver outperformed teammate and stood first by having largest gap among all drivers.
 
 ## Criteria for Qualifying Winner:
