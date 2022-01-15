@@ -1,0 +1,20 @@
+1,33,Max Verstappen,,Red Bull,Honda,1'28.997,,218.919
+2,44,Lewis Hamilton,,Mercedes,Mercedes,1'29.385,0.388,217.969
+3,77,Valtteri Bottas,,Mercedes,Mercedes,1'29.586,0.589,217.480
+4,16,Charles Leclerc,,Ferrari,Ferrari,1'29.678,0.681,217.257
+5,10,Pierre Gasly,,AlphaTauri,Honda,1'29.809,0.812,216.940
+6,3,Daniel Ricciardo,,McLaren,Mercedes,1'29.927,0.930,216.655
+7,4,Lando Norris,,McLaren,Mercedes,1'29.974,0.977,216.542
+8,55,Carlos Sainz Jr.,,Ferrari,Ferrari,1'30.215,1.218,215.964
+9,14,Fernando Alonso,,Alpine,Renault,1'30.249,1.252,215.882
+10,18,Lance Stroll,,Aston Martin,Mercedes,1'30.601,1.604,215.043
+11,11,Sergio Perez,,Red Bull,Honda,1'30.659,1.662,214.906
+12,99,Antonio Giovinazzi,,Alfa Romeo,Ferrari,1'30.708,1.711,214.790
+13,22,Yuki Tsunoda,,AlphaTauri,Honda,1'31.203,2.206,213.624
+14,7,Kimi Raikkonen,,Alfa Romeo,Ferrari,1'31.238,2.241,213.542
+15,63,George Russell,,Williams,Mercedes,1'33.430,4.433,208.532
+16,31,Esteban Ocon,,Alpine,Renault,1'31.724,2.727,212.411
+17,6,Nicholas Latifi,,Williams,Mercedes,1'31.936,2.939,211.921
+18,47,Mick Schumacher,,Haas,Ferrari,1'32.449,3.452,210.745
+19,9,Nikita Mazepin,,Haas,Ferrari,1'33.273,4.276,208.883
+20,5,Sebastian Vettel,,Aston Martin,Mercedes,1'32.056,3.059,211.645

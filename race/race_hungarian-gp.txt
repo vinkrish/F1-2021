@@ -1,0 +1,20 @@
+1,,31,Esteban Ocon,,Alpine,Renault,70,2:04'43.199,,,147.512,3,,25
+,dq,5,Sebastian Vettel,,Aston Martin,Mercedes,70,2:04'45.058,1.859,1.859,147.476,3,,
+2,,44,Lewis Hamilton,,Mercedes,Mercedes,70,2:04'45.935,2.736,0.877,147.458,4,,18
+3,,55,Carlos Sainz Jr.,,Ferrari,Ferrari,70,2:04'58.217,15.018,12.282,147.217,3,,15
+4,,14,Fernando Alonso,,Alpine,Renault,70,2:04'58.850,15.651,0.633,147.204,3,,12
+5,,10,Pierre Gasly,,AlphaTauri,Honda,70,2:05'46.813,1'03.614,47.963,146.269,4,,11
+6,,22,Yuki Tsunoda,,AlphaTauri,Honda,70,2:05'59.002,1'15.803,12.189,146.033,3,,8
+7,,6,Nicholas Latifi,,Williams,Mercedes,70,2:06'01.109,1'17.910,2.107,145.992,3,,6
+8,,63,George Russell,,Williams,Mercedes,70,2:06'02.293,1'19.094,1.184,145.970,3,,4
+9,,33,Max Verstappen,,Red Bull,Honda,70,2:06'03.443,1'20.244,1.150,145.947,5,,2
+10,,7,Kimi Raikkonen,,Alfa Romeo,Ferrari,69,2:05'00.261,1 Lap,1 Lap,145.074,4,,1
+11,,3,Daniel Ricciardo,,McLaren,Mercedes,69,2:05'12.032,1 Lap,11.771,144.847,3,,
+12,,47,Mick Schumacher,,Haas,Ferrari,69,2:05'21.793,1 Lap,9.761,144.659,3,,
+13,,99,Antonio Giovinazzi,,Alfa Romeo,Ferrari,69,2:05'22.828,1 Lap,1.035,144.639,5,,
+,dnf,9,Nikita Mazepin,,Haas,Ferrari,3,31'35.873,67 Laps,66 Laps,24.880,3,Collision,
+,dnf,4,Lando Norris,,McLaren,Mercedes,2,5'29.158,68 Laps,1 Lap,95.392,2,Collision,
+,dnf,77,Valtteri Bottas,,Mercedes,Mercedes,0,,,,,,Collision,
+,dnf,11,Sergio Perez,,Red Bull,Honda,0,,,,,,Collision,
+,dnf,16,Charles Leclerc,,Ferrari,Ferrari,0,,,,,,Collision,
+,dnf,18,Lance Stroll,,Aston Martin,Mercedes,0,,,,,,Collision,

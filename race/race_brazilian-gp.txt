@@ -1,0 +1,20 @@
+1,,44,Lewis Hamilton,,Mercedes,Mercedes,71,1:32'22.851,,,198.663,4,,25
+2,,33,Max Verstappen,,Red Bull,Honda,71,1:32'33.347,10.496,10.496,198.288,4,,18
+3,,77,Valtteri Bottas,,Mercedes,Mercedes,71,1:32'36.427,13.576,3.080,198.178,4,,15
+4,,11,Sergio Perez,,Red Bull,Honda,71,1:33'02.791,39.940,26.364,197.242,5,,13
+5,,16,Charles Leclerc,,Ferrari,Ferrari,71,1:33'12.368,49.517,9.577,196.904,4,,10
+6,,55,Carlos Sainz Jr.,,Ferrari,Ferrari,71,1:33'14.671,51.820,2.303,196.823,4,,8
+7,,10,Pierre Gasly,,AlphaTauri,Honda,70,1:32'27.043,1 Lap,1 Lap,195.717,4,,6
+8,,31,Esteban Ocon,,Alpine,Renault,70,1:32'43.369,1 Lap,16.326,195.142,3,,4
+9,,14,Fernando Alonso,,Alpine,Renault,70,1:32'43.860,1 Lap,0.491,195.125,3,,2
+10,,4,Lando Norris,,McLaren,Mercedes,70,1:32'46.857,1 Lap,2.997,195.020,5,,1
+11,,5,Sebastian Vettel,,Aston Martin,Mercedes,70,1:32'48.145,1 Lap,1.288,194.975,4,,
+12,,7,Kimi Raikkonen,,Alfa Romeo,Ferrari,70,1:32'53.939,1 Lap,5.794,194.772,4,,
+13,,63,George Russell,,Williams,Mercedes,70,1:33'20.939,1 Lap,27.000,193.833,4,,
+14,,99,Antonio Giovinazzi,,Alfa Romeo,Ferrari,70,1:33'23.413,1 Lap,2.474,193.748,4,,
+15,,22,Yuki Tsunoda,,AlphaTauri,Honda,70,1:33'27.652,1 Lap,4.239,193.601,5,,
+16,,6,Nicholas Latifi,,Williams,Mercedes,70,1:33'31.663,1 Lap,4.011,193.463,4,,
+17,,9,Nikita Mazepin,,Haas,Ferrari,69,1:32'58.069,2 Laps,1 Lap,191.847,3,,
+18,,47,Mick Schumacher,,Haas,Ferrari,69,1:33'35.425,2 Laps,37.356,190.571,5,,
+,dnf,3,Daniel Ricciardo,,McLaren,Mercedes,49,1:06'27.514,22 Laps,20 Laps,190.567,4,Retirement,
+,dnf,18,Lance Stroll,,Aston Martin,Mercedes,47,1:04'21.731,24 Laps,2 Laps,188.740,4,Retirement,

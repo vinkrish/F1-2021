@@ -1,0 +1,7 @@
+Max Verstappen:['spanish-gp', 'monaco-gp', 'hungarian-gp', 'italian-gp', 'turkish-gp', 'qatar-gp', 'abu-dhabi-gp']
+Lando Norris:['portuguese-gp', 'azerbaijan-gp', 'styrian-gp', 'austrian-gp', 'saudi-arabia-gp']
+Pierre Gasly:['british-gp', 'united-states-gp', 'mexican-gp']
+Charles Leclerc:['bahrain-gp', 'belgian-gp']
+Lewis Hamilton:['emilia-romagna-gp', 'russian-gp']
+George Russell:['french-gp', 'dutch-gp']
+Kimi Raikkonen:['brazilian-gp']
